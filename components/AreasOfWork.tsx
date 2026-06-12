@@ -43,7 +43,7 @@ export default function AreasOfWork() {
         
         <div className="grid md:grid-cols-4 gap-8">
           {areas.map((area, index) => (
-            <div key={index} className="p-6">
+            <div key={index} className="bg-gradient-to-br from-white to-stone-100 rounded-2xl p-6 shadow-sm">
               <h3 className="text-xl font-bold text-black mb-3">
                 {area.title}
               </h3>

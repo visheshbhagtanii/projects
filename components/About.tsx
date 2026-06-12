@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 export default function About() {
   return (
     <section className="px-8 md:px-16 py-20 md:py-32 bg-[#f5f1ed]">
@@ -8,10 +10,14 @@ export default function About() {
         
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <div className="flex justify-center">
-            <div className="w-full max-w-sm h-96 bg-gradient-to-br from-blue-300 to-blue-400 rounded-2xl overflow-hidden">
-              <div className="w-full h-full bg-blue-400 flex items-center justify-center text-white font-bold">
-                Professional Photo
-              </div>
+            <div className="w-full max-w-sm h-96 rounded-2xl overflow-hidden relative">
+              <Image
+                src="/sonakshi.png"
+                alt="Dr. Sonakshi Bhargava - Clinical Psychologist"
+                fill
+                className="object-cover object-top"
+                sizes="(max-width: 768px) 100vw, 384px"
+              />
             </div>
           </div>
           
