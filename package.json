@@ -7,8 +7,5 @@
     "build": "cd mentalhealthwithsonakshi && npm run build",
     "start": "cd mentalhealthwithsonakshi && npm run start",
     "lint": "cd mentalhealthwithsonakshi && npm run lint"
-  },
-  "workspaces": [
-    "mentalhealthwithsonakshi"
-  ]
+  }
 }
