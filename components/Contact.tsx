@@ -15,8 +15,8 @@ export default function Contact() {
           </div>
           <div className="flex items-center gap-3 text-gray-700 text-lg">
             <span>📱</span>
-            <a href="https://instagram.com/mentalhealth.withsonakshi" className="hover:text-blue-600">
-              @mentalhealth.withsonakshi
+            <a href="https://instagram.com/mentalhealthwithsonakshi" className="hover:text-blue-600">
+              @mentalhealthwithsonakshi
             </a>
           </div>
         </div>
