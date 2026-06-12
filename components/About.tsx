@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function About() {
   return (
     <section className="px-8 md:px-16 py-20 md:py-32 bg-[#f5f1ed]">
