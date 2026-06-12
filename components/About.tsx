@@ -36,7 +36,7 @@ export default function About() {
             
             <div className="flex items-center gap-2 text-gray-700">
               <span>📍</span>
-              <a href="https://instagram.com/mentalhealth.withsonakshi" className="hover:text-blue-600">
+              <a href="https://instagram.com/mentalhealthwithsonakshi" className="hover:text-blue-600">
                 @mentalhealthwithsonakshi
               </a>
             </div>
