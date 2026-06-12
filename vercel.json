@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd mentalhealthwithsonakshi && npm run build",
+  "devCommand": "cd mentalhealthwithsonakshi && npm run dev",
+  "outputDirectory": "mentalhealthwithsonakshi/.next"
+}

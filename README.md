@@ -1,4 +1,10 @@
-# Mental Health Counselling Practice Website
+# Projects Repository
+
+This repository contains multiple projects, organized by project name in dedicated folders.
+
+## Projects
+
+### Mental Health Counselling Practice Website (`mentalhealthwithsonakshi`)
 
 A professional Next.js website for Sonakshi Bhargava's mental health counselling practice.
 
@@ -12,6 +18,7 @@ A professional Next.js website for Sonakshi Bhargava's mental health counselling
 ## Project Structure
 
 ```
+mentalhealthwithsonakshi/
 ├── app/
 │   ├── layout.tsx          # Root layout
 │   ├── page.tsx            # Home page
@@ -26,7 +33,8 @@ A professional Next.js website for Sonakshi Bhargava's mental health counselling
 │   ├── Contact.tsx         # Contact information
 │   └── Footer.tsx          # Footer
 ├── public/                 # Static assets
-└── package.json            # Dependencies
+├── package.json            # Dependencies
+└── [config files]          # Next.js, TypeScript, Tailwind configs
 ```
 
 ## Features
@@ -49,7 +57,7 @@ A professional Next.js website for Sonakshi Bhargava's mental health counselling
 1. Clone the repository:
 ```bash
 git clone https://github.com/visheshbhagtanii/projects.git
-cd projects
+cd projects/mentalhealthwithsonakshi
 ```
 
 2. Install dependencies:
@@ -67,6 +75,8 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Available Scripts
+
+From the `mentalhealthwithsonakshi` directory:
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
