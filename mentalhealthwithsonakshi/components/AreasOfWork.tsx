@@ -24,6 +24,14 @@ export default function AreasOfWork() {
       title: 'Young Adult Concerns',
       description: 'Addressing challenges specific to early adulthood and life transitions.',
     },
+    {
+      title: 'Grief and Trauma',
+      description: 'Processing loss and healing from traumatic experiences with compassionate support.',
+    },
+    {
+      title: 'Emotional Abuse',
+      description: 'Recovery and healing from emotional abuse with validation and therapeutic support.',
+    },
   ]
 
   return (
@@ -33,7 +41,7 @@ export default function AreasOfWork() {
           AREAS I WORK WITH
         </h2>
         
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-4 gap-8">
           {areas.map((area, index) => (
             <div key={index} className="p-6">
               <h3 className="text-xl font-bold text-black mb-3">
