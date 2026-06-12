@@ -1,5 +1,3 @@
 {
-  "buildCommand": "cd mentalhealthwithsonakshi && npm run build",
-  "devCommand": "cd mentalhealthwithsonakshi && npm run dev",
-  "installCommand": "cd mentalhealthwithsonakshi && npm install"
+  "buildCommand": "npm run build"
 }
