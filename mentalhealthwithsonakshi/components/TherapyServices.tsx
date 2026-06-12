@@ -5,7 +5,7 @@ export default function TherapyServices() {
     {
       title: 'Individual Counselling',
       subtitle: 'INDIA',
-      price: '₹1,499',
+      price: '₹1,799',
       duration: '50 minutes',
       icon: '👤',
       color: 'from-blue-50 to-blue-100',
@@ -20,7 +20,7 @@ export default function TherapyServices() {
     {
       title: 'Individual Counselling',
       subtitle: 'OVERSEAS',
-      price: '$30',
+      price: '$40',
       duration: '50 minutes',
       icon: '🌍',
       color: 'from-purple-50 to-purple-100',
@@ -34,7 +34,7 @@ export default function TherapyServices() {
     {
       title: "Couple's Counselling",
       subtitle: '',
-      price: '₹2,499',
+      price: '₹2,999',
       duration: '60 minutes',
       icon: '❤️',
       color: 'from-pink-50 to-pink-100',
@@ -48,7 +48,7 @@ export default function TherapyServices() {
     {
       title: 'Counselling Package',
       subtitle: 'COMPREHENSIVE THERAPY JOURNEY',
-      price: '₹5,999',
+      price: '₹7,499',
       duration: '5 Sessions',
       badge: 'BEST VALUE',
       icon: '🎯',
@@ -64,7 +64,7 @@ export default function TherapyServices() {
     {
       title: 'Career Guidance',
       subtitle: 'NAVIGATE YOUR PROFESSIONAL JOURNEY',
-      price: '₹1,499',
+      price: '₹1,799',
       duration: '50 minutes',
       icon: '💼',
       color: 'from-amber-50 to-amber-100',
