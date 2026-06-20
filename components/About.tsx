@@ -12,7 +12,7 @@ export default function About() {
           <div className="flex justify-center">
             <div className="w-full max-w-sm h-96 rounded-2xl overflow-hidden relative">
               <Image
-                src="/sonakshi.png"
+                src="/about.jpg"
                 alt="Dr. Sonakshi Bhargava - Clinical Psychologist"
                 fill
                 className="object-cover object-top"
